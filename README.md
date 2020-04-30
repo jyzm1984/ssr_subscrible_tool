@@ -13,10 +13,13 @@ Good luck, guys!
 
 如果你有什么问题，Please open an issues
 
-
 ## 更新说明
 - 支持SS或者SSR
 
 ## 问题
 - 据反映安卓或者Windows客户端可能无法订阅成功，请为添加的每一个节点设置相同的**分组**
 
+## 视频中涉及到的网址:
+1. Github https://github.com/
+2. Netlify https://app.netlify.com/
+3. 个人项目地址: https://github.com/jyzm1984/ssr_subscrible_tools
